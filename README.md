@@ -1,2 +1,14 @@
 # wwwzone-2026worldcup-lab
-HTML page archive and documentation
+
+静态内容发布记录
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
